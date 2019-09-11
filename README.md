@@ -11,7 +11,7 @@ I do not own any of the textures, models or animations from that model, and is p
 for example purposes only.
 
 ## Features
-- [Shader I wrote(with help of documentations)](link)
+- [Shader I wrote(with help of documentations)](https://github.com/Feaxxae/UnityChangeVertices/blob/master/UnityShaders/Assets/unity-chan!/Unity-chan!%20Model/Art/UnityChanShader/Shader/Unitychan_VertexShader.shader)
 
 ## Software Analysis 
 I picked out a few options to make this project in:
