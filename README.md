@@ -27,7 +27,7 @@ Unreal:
 	Almost everything goes by blueprints from what I have experienced and seen on the internet and I don't want to do blueprints.
 	Not very friendly to non experienced users, it has a quite messy interface in my opinion and tools and other stuff is difficult to find.
 
-Java
+Java:
 	Java is one of my least favourite languages to use, I can't get it to work so this one is by far not the one I am going use for this.
 	But I have seen some amazing stuff being made with it (example: Minecraft)
 	And from things I have read there's a lot of libraries allowing me to make meshes and deform them on the fly with code.
