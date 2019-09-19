@@ -48,7 +48,7 @@ Conclusion:
 - The goal of this project was to learn more abotu vertices, shaders and mesh rendering.
 
 ## Planning 
-| | maandag | dinsdag | woensdag | donderdag | vrijdag |
+| | Monday | Teusday | Wednesday | Thursday | Friday |
 | --- | --- | --- | --- | --- | --- |
 |week 1 | Deciding what to make | Starting with researching and make a prototype | fix bugs that appear in play-test of the vertices shader | Repeat previous day | Check if everything has been made | 
 |week 2 | Work on my own website and/or projects | Repeat previous day | Deadline for this school assignment | --- | --- |
